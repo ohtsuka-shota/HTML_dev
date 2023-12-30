@@ -1,0 +1,53 @@
+#sign-up-icon {
+  text-align: center;
+}
+
+#sign-up-title{
+  text-align: center;
+  font-family: serif;
+}
+
+.sign-up-group {
+  width: fit-content;
+  margin: auto;
+  padding: 3%;
+}
+
+.sign-up-form {
+  padding-top: 3%;
+  width: fit-content;
+  margin:auto;
+}
+
+.sign-up-content {
+  border-radius: 4px;
+  font-family: serif;
+}
+
+#submit-form{
+  text-align: center;
+  padding-top: 5%;
+}
+
+#sign-up-button {
+  color: white;
+  background-color: blue;   
+  width: 77%;
+  border-radius: 4px;
+  font-family: serif;
+}
+
+#sign-up-button:hover {
+  background-color: midnightblue;
+}
+
+.password-container {
+  position: relative;
+}
+
+#show-password-icon {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
